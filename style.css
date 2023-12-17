@@ -1,0 +1,115 @@
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+  }
+
+  .fa:hover{
+    opacity: .5;
+  }
+
+  .fa-linkedin{
+    background-color: #0077b5;
+    color: white;
+    border-radius: 50%;
+    width: 30px;
+  }
+
+  .fa-facebook{
+    background-color: #1877F2;
+    color: white;
+    margin-left: 10px;
+    border-radius: 50%;
+    width: 30px;
+  }
+
+  .fa-github{
+    background-color: black;
+    color: white;
+    margin-left: 10px;
+    border-radius: 50%;
+    width: 30px;
+  }
+
+  footer{
+    text-align: center;
+  }
+
+  .headshot{
+    text-align: center;
+    margin-top: 70px;
+    margin-bottom: 50px;
+  }
+
+  .links{
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    margin-top: 25px;
+    padding-right: 30px;
+    color: white;
+  }
+
+  .description{
+    text-align: center;
+    font-size: 150%;
+    margin-bottom: 50px;
+  }
+
+  .description{
+    display: inline-block;
+  }
+
+  head{
+    background-color: black;
+  }
+
+  .name{
+    background-color: #1877F2;
+    padding: 10px;
+    margin: auto;
+    color: white;
+    font-family: "poppins";
+  }
+
+  a{
+    color: white;
+    text-decoration: none;
+    font-size: 150%;
+    font-family: "poppins";
+    word-spacing: 5px;
+    letter-spacing: 2px;
+  }
+
+  a:hover{
+    text-decoration: underline;
+  }
+
+  h3{
+    font-size: 125%;
+    font-family: "poppins";
+    word-spacing: 5px;
+    letter-spacing: 2px;
+  }
+
+  p{
+    font-size: 125%;
+    font-family: "poppins";
+    margin: 30px;
+    word-spacing: 5px;
+    letter-spacing: 2px;
+  }
+
+ h2{
+    font-family: "poppins";
+    word-spacing: 5px;
+    letter-spacing: 2px;
+ }
+
+ h1{
+    font-family: "poppins";
+    word-spacing: 5px;
+    letter-spacing: 2px;
+ }
