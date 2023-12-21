@@ -122,7 +122,7 @@
     letter-spacing: 2px;
  }
 
- .hunting, .games{
+ .hunting{
     width: 500px;
     align-items: center;
     margin: 5x;
@@ -130,13 +130,58 @@
     margin-top: 20px;
  }
 
+ .games{
+  width: 500px;
+  align-items: center;
+  margin: 5x;
+  padding-left: 15px;
+  margin-top: 20px;
+}
+
  .sports{
     width: 500px;
     height: 333px;
     margin-left: 15px;
+    margin-top: 20px;
  }
 
  .aboutImages{
     display: inline;
     justify-content: center;
+    display: flex;
+ }
+
+/* Contact Form */
+
+ #form{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  border: solid;
+  border-radius: 10px;
+  margin: 100px;
+  padding-bottom: 20px;
+  background-color: lightblue;
+  font-family: "poppins";
+ }
+
+ #formPage{
+  background-color: antiquewhite;
+ }
+
+ /* Success Page */
+
+ #successMessage{
+  text-align: center;
+  border: solid;
+  border-radius: 30px;
+  border: 0px;
+  background-color: rgb(78, 169, 255);
+  margin: 200px;
+ }
+
+ #successPage{
+  background-color: rgb(241, 241, 241);
  }
