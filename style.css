@@ -45,11 +45,13 @@
 
   .links{
     position: absolute;
+    display: flex;
     top: 0px;
     right: 0px;
     margin-top: 25px;
     padding-right: 30px;
     color: white;
+    gap: 15px;
   }
 
   .description{
